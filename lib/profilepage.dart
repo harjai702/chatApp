@@ -18,7 +18,7 @@ class _ProfilePageState extends State<ProfilePage> {
     //profilePicUrl=snapshot.data.docs[i].photoUrl;
 
     setState(() {
-     //hfgahrfgshfdghhdfghfghfghfgo profilePicUrl=uuid.photoUrl;
+     //hfgahrfgshfdghhdfghfghfghfgo profilePicUrl=uuid.photoUrlsdfghj;
     });
   }
   getvalue(String uuid) async{
